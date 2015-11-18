@@ -1,1 +1,9 @@
-1234456123 hello
+<<<<<<< HEAD
+1234456123 hello, people
+nice :)
+9o9o9onnnn
+=======
+1234456124 hello
+nice!
+78787
+>>>>>>> master
